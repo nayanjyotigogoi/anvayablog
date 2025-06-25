@@ -109,7 +109,7 @@ const blogPostsData = {
       title: "Why Every Business Needs a Mobile App in 2025",
       excerpt:
         "With mobile usage soaring, having a business app is no longer optional. Learn how mobile apps drive marketing, customer engagement, and ROI—and when it’s the right time to build one.",
-      image: "/BLOG/BLOG-5.png?height=400&width=600",
+      image: "/BLOG/blog-5.png?height=400&width=600",
       category: "Mobile Development",
       categoryLabel: "Mobile Development",
       author: "Biswajit Das",
@@ -134,7 +134,7 @@ const blogPostsData = {
       title: "What is Technical Business Consulting and Why You Need It",
       excerpt:
         "Technical business consulting bridges the gap between strategy and technology. Discover how it drives automation, reduces costs, and aligns IT with your business goals—plus when to bring in a consulting partner.",
-      image: "/BLOG/BLOG-6.png?height=400&width=600",
+      image: "/BLOG/blog-6.png.png?height=400&width=600",
       category: "Business Consulting",
       categoryLabel: "Business Consulting",
       author: "Nayanjyoti Gogoi",
@@ -278,7 +278,7 @@ const blogPostsData = {
       title: "2025-ত প্ৰতিটো ব্যৱসায়ৰ বাবে মোবাইল এপ কিয় আৱশ্যক?",
       excerpt:
         "মোবাইল ব্যৱহাৰৰ বৃদ্ধি সৈতে, এটা ব্যৱসায়িক মোবাইল এপ্‌ ৰখা এতিয়া বিলাসিতা নহয়—এটা প্ৰয়োজন। জানক কিদৰে এটা এপ্‌য়ে আপোনাৰ ব্যৱসায়ৰ লাভ, জড়িততা আৰু বিপণনত সহায় কৰে।",
-      image: "/BLOG/BLOG-5.png?height=400&width=600",
+      image: "/BLOG/blog-5.png?height=400&width=600",
       category: "Mobile Development",
       categoryLabel: "Mobile Development",
       author: "বিস্বজিত দাস",
@@ -304,7 +304,7 @@ const blogPostsData = {
         "টেকনিকেল বিজনেছ কনছালটিং কি? আৰু এইটো আপোনাৰ বাবে কিয় প্ৰয়োজনীয়",
       excerpt:
         "টেকনিকেল বিজনেছ কনছালটিংয়ে ষ্ট্ৰাটেজি আৰু প্ৰযুক্তিৰ মাজত সংযোগ স্থাপন কৰে। জানক কেনেদৰে ই অটোমেশ্যন আনে, খৰচ কমায়, আৰু IT-ৰ সৈতে আপোনাৰ লক্ষ্য সদৃশ কৰে—পাছত কেতিয়া এজন কনছালটিং পাৰ্টনাৰ নিযুক্ত কৰিব লাগে।",
-      image: "/BLOG/BLOG-6.png?height=400&width=600",
+      image: "/BLOG/blog-6.png?height=400&width=600",
       category: "Business Consulting",
       categoryLabel: "Business Consulting",
       author: "নয়নজ্যোতি গগৈ",

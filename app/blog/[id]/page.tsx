@@ -549,7 +549,7 @@ const blogPostContent = {
         </div>
       </div>
       `,
-      image: "/BLOG/BLOG-5.png?height=400&width=600",
+      image: "/BLOG/blog-5.png?height=400&width=600",
       category: "Mobile Development",
       categoryLabel: "Mobile Development",
       author: "Biswajit Das",
@@ -645,7 +645,7 @@ const blogPostContent = {
       </div>
 
       `,
-      image: "/BLOG/BLOG-6-1.png?height=500&width=600",
+      image: "/BLOG/blog-6-1.png?height=500&width=600",
       category: "Business Consulting",
       categoryLabel: "Business Consulting",
       author: "Nayanjyoti Gogoi",
@@ -1060,7 +1060,7 @@ const blogPostContent = {
       </div>
     </div>
     `,
-      image: "/BLOG/BLOG-5.png?height=400&width=600",
+      image: "/BLOG/blog-5.png?height=400&width=600",
       category: "Mobile Development",
       categoryLabel: "Mobile Development",
       author: "বিস্বজিৎ দাস",
@@ -1154,7 +1154,7 @@ const blogPostContent = {
       </div>
 
     `,
-      image: "/BLOG/BLOG-6-1.png?height=400&width=600",
+      image: "/BLOG/blog-6-1.png?height=400&width=600",
       category: "Business Consulting",
       categoryLabel: "Business Consulting",
       author: "নয়নজ্যোতি গগৈ",
