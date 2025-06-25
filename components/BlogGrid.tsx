@@ -134,7 +134,7 @@ const blogPostsData = {
       title: "What is Technical Business Consulting and Why You Need It",
       excerpt:
         "Technical business consulting bridges the gap between strategy and technology. Discover how it drives automation, reduces costs, and aligns IT with your business goals—plus when to bring in a consulting partner.",
-      image: "/BLOG/blog-6.png.png?height=400&width=600",
+      image: "/BLOG/blog-6.png?height=400&width=600",
       category: "Business Consulting",
       categoryLabel: "Business Consulting",
       author: "Nayanjyoti Gogoi",
